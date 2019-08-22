@@ -31,6 +31,7 @@ public class RegistrationController {
 		ModelAndView modelAndView = new ModelAndView();
 		if (result.hasErrors()) {
 			modelAndView.setViewName("register");
+			modelAndView.addObject("customer", customer);
 			return modelAndView;
 		}
 		customerService.addCustomer(customer);

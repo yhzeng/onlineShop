@@ -34,7 +34,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 		auth
-			.inMemoryAuthentication().withUser("stefanlaioffer@gmail.com").password("1234").authorities("ROLE_ADMIN");
+			.inMemoryAuthentication().withUser("1234@gmail.com").password("1234").authorities("ROLE_ADMIN");
 		
 		auth
 			.jdbcAuthentication()
