@@ -3,7 +3,10 @@ C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\User.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\ShippingAddress.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\ApplicationConfig.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\service\CustomerService.java
+C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\dao\SalesOrderDao.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\controller\HomePageController.java
+C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\service\SalesOrderService.java
+C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\dao\SalesOrderDaoImpl.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\SecurityConfig.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\dao\CartItemDao.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\Customer.java
@@ -15,6 +18,7 @@ C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\service\CartServic
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\dao\ProductDaoImpl.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\Cart.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\controller\RegistrationController.java
+C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\controller\OrderController.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\BillingAddress.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\SalesOrder.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\service\CustomerServiceImpl.java
@@ -23,6 +27,7 @@ C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\controller\CartCon
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\Authorities.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\service\CartItemServiceImpl.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\model\Product.java
+C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\service\SalesOrderServiceImpl.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\controller\ProductController.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\dao\ProductDao.java
 C:\Users\Neal\Eclipse-Web\onlineShop\src\main\java\onlineShop\service\CartServiceImpl.java
